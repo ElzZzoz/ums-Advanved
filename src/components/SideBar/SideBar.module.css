@@ -1,0 +1,7 @@
+.sidebarContainer {
+  background-color: bisque;
+}
+
+.sidebarContainer .ps-sidebar-container .ps-menu-button {
+  background-color: black;
+}
